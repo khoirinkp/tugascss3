@@ -1,0 +1,25 @@
+
+.satu{
+  background-color: rgb(227, 128, 48);
+  padding: 20px;
+  margin: 0px;
+}
+.dua{
+  background-color: rgb(45, 97, 176);
+  color: white;
+  padding: 20px;
+  margin: 0px;
+}
+.tiga{
+  font-family: sans-serif;
+  font-size: 25px;
+  padding: 20px;
+  margin: 0px;
+}
+.empat{
+  background-color: rgb(204, 204, 204);
+  font-weight: bold;
+  font-size: 25px;
+  padding: 20px;
+  margin: 0px;
+}
